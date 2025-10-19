@@ -1,2 +1,1 @@
-# Election-simulation
-I tried simulating best scenario to get majority votes with fake data. 
+I simulated best scenario to get majority votes in a fake country with fake political parties 
